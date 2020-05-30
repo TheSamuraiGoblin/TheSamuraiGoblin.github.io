@@ -28,7 +28,7 @@ twitter_username: DaleTho44406405
 github_username:  DaleyPaley
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
