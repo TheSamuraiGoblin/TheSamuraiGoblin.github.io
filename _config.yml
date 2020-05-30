@@ -28,7 +28,7 @@ twitter_username: DaleTho44406405
 github_username:  DaleyPaley
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
