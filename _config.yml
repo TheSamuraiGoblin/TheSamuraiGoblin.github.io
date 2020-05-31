@@ -30,9 +30,11 @@ github_username:  TheSamuraiGoblin
 # Build settings
 future: true
 show_drafts: false
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
+gems:
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
