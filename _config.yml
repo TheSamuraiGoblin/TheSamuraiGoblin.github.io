@@ -30,7 +30,7 @@ github_username:  DaleyPaley
 # Build settings
 future: true
 show_drafts: false
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
