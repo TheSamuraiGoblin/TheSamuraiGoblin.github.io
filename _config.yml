@@ -30,7 +30,7 @@ github_username:  TheSamuraiGoblin
 # Build settings
 future: true
 show_drafts: false
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
